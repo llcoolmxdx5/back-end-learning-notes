@@ -31,27 +31,29 @@
     - 插件管理
 - **Java 基础语法**
     - 数据类型
+    - 运算符
     - 流程控制
 - 数组
+- String
+- 数字
+- 日期
+- 内置的包装类
 - **面向对象**
     - 方法
     - 重载
     - 封装
     - 继承
     - 多态
-- 抽象类
-- 接口
-- 枚举
-- 常用类
-    - String
-    - 日期时间
+    - 抽象类
+    - 接口
+- 异常处理
 - 集合类
 - 泛型
-- 注解
-- 异常处理
-- 多线程
-- IO 流
+- 枚举
 - 反射
+- I/O 流
+- 注解
+- 多线程
 
 #### 学习建议
 
@@ -77,6 +79,7 @@
 - 文档
     - ⭐ 菜鸟教程：https://www.runoob.com/java/java-tutorial.html （可以在线练习）
     - 廖雪峰 Java 教程：https://www.liaoxuefeng.com/wiki/1252599548343744
+    - c语言中文网java教程 http://c.biancheng.net/java/10/
     - IDEA 中文教程：https://github.com/judasn/IntelliJ-IDEA-Tutorial
     - IDEA Mac 快捷键指南，地址：https://www.jianshu.com/p/454c71172c46
     - IDEA Win 常用快捷键，地址：https://www.jianshu.com/p/5de7cca0fefc
